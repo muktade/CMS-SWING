@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cafeManagementSystem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/cafeManagementSystem.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
